@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+table td,
+table th {
+  vertical-align: middle;
+}
+
+.btn-group form {
+  display: inline-block;
+}
