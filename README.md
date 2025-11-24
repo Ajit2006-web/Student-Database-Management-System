@@ -1,4 +1,4 @@
-#Student Database Management System
+# Student Database Management System
 
 This Student Database Management System is a web-based application built using Node.js, Express, MySQL, EJS, and Bootstrap.
 It provides a secure platform for managing student records such as name, address, email, mobile number, date of birth, course, and admission year. 
